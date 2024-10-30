@@ -1,4 +1,4 @@
-package com.example.class04cookiesession;
+package top.soft.class04cookiesession;
 
 import java.io.*;
 import jakarta.servlet.http.*;

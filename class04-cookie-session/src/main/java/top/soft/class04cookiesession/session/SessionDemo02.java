@@ -1,4 +1,4 @@
-package com.example.class04cookiesession.session;
+package top.soft.class04cookiesession.session;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;

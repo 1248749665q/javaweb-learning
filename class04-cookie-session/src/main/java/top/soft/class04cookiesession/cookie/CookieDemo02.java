@@ -1,4 +1,4 @@
-package com.example.class04cookiesession.cookie;
+package top.soft.class04cookiesession.cookie;
 
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.Cookie;
